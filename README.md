@@ -1,4 +1,4 @@
-#SEN 307;
+#SEN 307
 Awe Akindeji Isaac
 VUG/SEN/24/11540
 vUA-SEN307 Database Systems
