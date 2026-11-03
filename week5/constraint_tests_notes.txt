@@ -15,8 +15,6 @@ from schema.sql in MySQL Workbench and save screenshots.
 3. ERD
 After the tables are created, use:
 Database -> Reverse Engineer
-Select the sen307_<your_matric_number> database.
+Select the sen307_11540 database.
 Export the resulting EER diagram as lab3_erd.png.
 
-4. Important
-Replace 20231234 in schema.sql with your actual matric number before running it.
