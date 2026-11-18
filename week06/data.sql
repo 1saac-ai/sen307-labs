@@ -1,5 +1,5 @@
 -- VUA-SEN307 Database Systems | Week 6 Practical | Lab 4: DML
--- Author: Ogah Christopher (VUG/SEN/24/11932)
+-- Awe Ajkindeji Isaac VUG/SEN/24/11540
 
 -- NOTE: use the exact database name you created in Week 5.
 -- A matric number with slashes can't be used as-is, so adjust this line if yours differs.
